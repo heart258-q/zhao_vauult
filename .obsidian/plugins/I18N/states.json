@@ -1,0 +1,11 @@
+{
+    "plugins": {
+        "obsidian-git": {
+            "id": "obsidian-git",
+            "isApplied": true,
+            "pluginVersion": "2.38.2",
+            "translationVersion": "2.0.0"
+        }
+    },
+    "themes": {}
+}

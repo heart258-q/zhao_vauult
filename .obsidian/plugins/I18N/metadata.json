@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "sources": {
+    "AOHQQfFtR-lzgqSFLQVJZtWoKLIgELli": {
+      "id": "AOHQQfFtR-lzgqSFLQVJZtWoKLIgELli",
+      "plugin": "obsidian-git",
+      "title": "Git",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "a3c4f72dd1b7c507353d993e3b52541de42a0c56a5e5c03b40f874e72226954a",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "580c270a580c270a580c270a580c270a"
+      },
+      "updatedAt": 1778675576775,
+      "createdAt": 1778675576775
+    }
+  }
+}
