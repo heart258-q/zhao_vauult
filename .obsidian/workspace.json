@@ -27,8 +27,8 @@
             "state": {
               "type": "i18n-manager-view",
               "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
+              "icon": "lucide-ghost",
+              "title": "i18n-manager-view"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "i18n-cloud-view",
               "state": {},
-              "icon": "cloud",
-              "title": "云端翻译中心"
+              "icon": "lucide-ghost",
+              "title": "i18n-cloud-view"
             }
           },
           {
@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一贯道/主要文件/附件/冈村宁次.md",
+                "file": "测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "冈村宁次"
+              "title": "测试"
             }
           }
         ],
@@ -209,7 +209,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:打开Git源代码管理": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -217,12 +216,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "i18n:common.i18n": false
+      "i18n:common.i18n": false,
+      "obsidian-git:打开Git源代码管理": false
     }
   },
   "active": "4160466fb91f0106",
   "lastOpenFiles": [
     "一贯道/主要文件/附件/张天然.md",
+    "一贯道/主要文件/附件/冈村宁次.md",
     "一贯道/主要文件/附件/师尊.md",
     "一贯道/主要文件/附件/张光璧.md",
     "一贯道/主要文件/2/3/一贯道的组成部分.md",
@@ -230,7 +231,6 @@
     "一贯道/主要文件/2/一贯道现状当下.md",
     "一贯道/主要文件/2/一贯道的内外环境.md",
     "一贯道/主要文件/2/一贯道的坏处局限.md",
-    "一贯道/主要文件/附件/冈村宁次.md",
     "一贯道/主要文件/2/3/一贯道构成.md",
     "一贯道/主要文件/2/一贯道是什么？.md",
     "一贯道/主要文件/一贯道.md",
