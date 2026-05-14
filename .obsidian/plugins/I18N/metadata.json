@@ -16,6 +16,22 @@
       },
       "updatedAt": 1778675576775,
       "createdAt": 1778675576775
+    },
+    "qUv59rG6p9pERF4JRmIv-vSaJPyhVw6K": {
+      "id": "qUv59rG6p9pERF4JRmIv-vSaJPyhVw6K",
+      "plugin": "digitalgarden",
+      "title": "Digital Garden",
+      "type": "plugin",
+      "origin": "cloud",
+      "isActive": false,
+      "checksum": "fc30f8d6313d4815bcc41246209788be006f1c0a16d56be65a0d49ef61f7bbb5",
+      "cloud": {
+        "owner": "yunrr",
+        "repo": "obsidian-i18n-resources",
+        "hash": "6bc687506bc687506bc687506bc68750"
+      },
+      "updatedAt": 1778734151088,
+      "createdAt": 1778734151088
     }
   }
 }

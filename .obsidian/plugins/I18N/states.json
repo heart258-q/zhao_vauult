@@ -5,6 +5,12 @@
             "isApplied": true,
             "pluginVersion": "2.38.2",
             "translationVersion": "2.0.0"
+        },
+        "digitalgarden": {
+            "id": "digitalgarden",
+            "isApplied": true,
+            "pluginVersion": "2.76.4",
+            "translationVersion": "2.0.0"
         }
     },
     "themes": {}

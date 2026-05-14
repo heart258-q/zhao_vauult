@@ -27,8 +27,8 @@
             "state": {
               "type": "i18n-manager-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "i18n-manager-view"
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
             }
           },
           {
@@ -37,8 +37,8 @@
             "state": {
               "type": "i18n-cloud-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "i18n-cloud-view"
+              "icon": "cloud",
+              "title": "云端翻译中心"
             }
           },
           {
@@ -47,16 +47,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/测试.md",
+                "file": "其他/手机测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "手机测试"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/测试.md",
+                "file": "其他/手机测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "测试 的反向链接列表"
+              "title": "手机测试 的反向链接列表"
             }
           },
           {
@@ -204,10 +204,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:数字花园发布中心": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -219,8 +221,10 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "4160466fb91f0106",
+  "active": "fa9ddfda3a786482",
   "lastOpenFiles": [
+    "其他/测试.md",
+    "其他/手机测试.md",
     "一贯道/主要文件/2/一贯道现状当下.md",
     "一贯道/主要文件/2/一贯道是怎么做的.md",
     "一贯道/主要文件/2/一贯道是什么？.md",
@@ -236,7 +240,6 @@
     "一贯道/主要文件/一贯道双标十问.md",
     "一贯道/主要文件/一贯道.md",
     "一贯道/主要文件/关于一系列极其恶劣的社会情况的反映.md",
-    "其他/测试.md",
     "其他/assets/测试",
     "其他/assets",
     "其他",
@@ -265,7 +268,6 @@
     "一贯道/主要文件/附件/张光璧.md",
     "一贯道/主要文件/2/3/一贯道的组成部分.md",
     "一贯道/主要文件/2/一贯道有什么？.md",
-    "一贯道/主要文件/2/3/一贯道构成.md",
-    "Clippings/张光璧.md"
+    "一贯道/主要文件/2/3/一贯道构成.md"
   ]
 }
