@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一贯道/主要文件/2/一贯道现状当下.md",
+                "file": "其他/测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一贯道现状当下"
+              "title": "测试"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一贯道/主要文件/2/一贯道现状当下.md",
+                "file": "其他/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "一贯道现状当下 的反向链接列表"
+              "title": "测试 的反向链接列表"
             }
           },
           {
@@ -221,6 +221,7 @@
   },
   "active": "4160466fb91f0106",
   "lastOpenFiles": [
+    "一贯道/主要文件/2/一贯道现状当下.md",
     "一贯道/主要文件/2/一贯道是怎么做的.md",
     "一贯道/主要文件/2/一贯道是什么？.md",
     "一贯道/主要文件/2/一贯道起源背景.md",
@@ -264,7 +265,6 @@
     "一贯道/主要文件/附件/张光璧.md",
     "一贯道/主要文件/2/3/一贯道的组成部分.md",
     "一贯道/主要文件/2/一贯道有什么？.md",
-    "一贯道/主要文件/2/一贯道现状当下.md",
     "一贯道/主要文件/2/3/一贯道构成.md",
     "Clippings/张光璧.md"
   ]
